@@ -4,9 +4,9 @@
 <h1 align="center">
     <strong>Drag and drop images</strong>
 </h1>
-<h2 align="center">
+<h3 align="center">
     Drag and drop images on HTML
-</h2>
+</h3>
 
 # Drag-and-Drop-images
 Drag and drop images on HTML
