@@ -14,9 +14,9 @@ Drag and drop images on HTML
 <img src="screen2.jpg" width="300px">
 
 ## Features
-* *drag and drop field on HTML
-* *onclick function to open image
-* *display thumbnail of dropped image
-* *display image nail under thumbnail
+* *drag and drop field on HTML*
+* *onclick function to open image*
+* *display thumbnail of dropped image*
+* *display image nail under thumbnail*
 
 
