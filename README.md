@@ -8,9 +8,6 @@
     Drag and drop images on HTML
 </h3>
 
-# Drag-and-Drop-images
-Drag and drop images on HTML
-
 <img src="screen2.jpg" width="300px">
 
 ## Features
