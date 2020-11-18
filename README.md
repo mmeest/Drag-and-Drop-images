@@ -14,6 +14,6 @@
 * *drag and drop field on HTML*
 * *onclick function to open image*
 * *display thumbnail of dropped image*
-* *display image nail under thumbnail*
+* *display image name under thumbnail*
 
 
